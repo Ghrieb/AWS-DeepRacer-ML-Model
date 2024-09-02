@@ -1,6 +1,6 @@
 # AWS DeepRacer Model: Achieving Top Race Times with Reinforcement Learning
 
-Welcome to my AWS DeepRacer repository! This project showcases my journey to the top 3 in my country's AWS DeepRacer competition. By training and refining a deep reinforcement learning (RL) model, I achieved a qualifying time of under 2 minutes on the virtual track, prequalifying for the AWS AI & ML scholarship. This repository contains all the necessary resources, visualizations, code, and insights that led to this achievement.
+Welcome to my AWS DeepRacer repository! This project showcases my journey to the top 3 in my country's AWS DeepRacer competition. By training and refining a deep reinforcement learning (RL) model, I achieved a qualifying time of under 2 minutes on the virtual track (I achieved a qualifying time of 00:59.484 seconds, securing the top spot in Algeria), prequalifying for the AWS AI & ML scholarship. This repository contains all the necessary resources, visualizations, code, and insights that led to this achievement.
 ![image](https://github.com/user-attachments/assets/eec5b83d-8e1c-4dcc-a2b3-02eb0ba07cd6)
 
 ## Table of Contents
