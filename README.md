@@ -7,9 +7,6 @@ Welcome to my AWS DeepRacer repository! This project showcases my journey to the
 - [Overview](#overview)
 - [Model Architecture](#model-architecture)
 - [Reward Function](#reward-function)
-- [Visualization](#visualization)
-  - [Track Waypoint Map](#track-waypoint-map)
-  - [Reward Function Diagram](#reward-function-diagram)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -55,7 +52,7 @@ def reward_function(params):
     marker_2 = 0.25 * track_width
     marker_3 = 0.5 * track_width
 ```
-
+The `reward_function.py` file can be found in the `/notebook/` directory.
 
 ## Contributing
 Feel free to fork this repository and make your own improvements. If you have suggestions or encounter issues, please submit a pull request or open an issue.
