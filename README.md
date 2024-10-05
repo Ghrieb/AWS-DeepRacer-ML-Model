@@ -37,7 +37,7 @@ The `.pb` model file can be found in the `/models/` directory.
 The reward function is the heart of the DeepRacer model. It guides the model's decisions during training by rewarding behaviors that lead to completing the track faster.
 
 ### Code Snippet
-Here's the core logic of the reward function:
+Here's the Code Snippet of the reward function (You can find it on : notebook/reward_function.py):
 
 ```python
 def reward_function(params):
